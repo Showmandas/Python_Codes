@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/python_codes-master.iml" filepath="$PROJECT_DIR$/.idea/python_codes-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/CodeExcercise.iml" filepath="$PROJECT_DIR$/.idea/CodeExcercise.iml" />
     </modules>
   </component>
 </project>
